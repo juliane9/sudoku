@@ -50,11 +50,10 @@ Create a new branch: git checkout -b feature/your_feature_name.
 Make your changes and commit them: git commit -am 'Add some feature'.
 Push to the branch: git push origin feature/your_feature_name.
 Submit a pull request.
-License
 
+
+License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Acknowledgments
-
-Scala.js for providing a powerful way to build web applications using Scala.
-[Your Name] for developing the Sudoku game.
+EPFL CS214 course for providing useful and important information on how to implement a webapp.
