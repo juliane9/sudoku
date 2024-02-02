@@ -31,7 +31,9 @@ cd sudoku-game
 
 
 #### Compile the Scala.js project and generate JavaScript:
-sbt fastLinkJS
+sbt
+run
+
 
 Type localhost:8080 in a web browser to start playing.
 
