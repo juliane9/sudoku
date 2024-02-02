@@ -12,24 +12,29 @@ Ending: The game automatically detects when the game is finished because all cel
 
 
 
+
 ## Getting Started
 
 #### Prerequisites:
 - Scala and SBT installed on your machine
 - A modern web browser
 
+
 #### Installation
 Clone the repository:
 bash
 git clone https://github.com/yourusername/sudoku-game.git
 
+
 #### Navigate to the project directory:
 cd sudoku-game
+
 
 #### Compile the Scala.js project and generate JavaScript:
 sbt fastLinkJS
 
 Type localhost:8080 in a web browser to start playing.
+
 
 
 
@@ -39,6 +44,7 @@ Type localhost:8080 in a web browser to start playing.
 2. Fill in the grid according to the sudoku rule by double-clicking on a cell to select it, then inputting a number from the keyboard
 3. You can use the number buttons to highlight all instances of that number on the board.
 4. To annotate, you can press the "Annotate" button to enter or exit annotation mode for suggesting possible numbers for each cell. You can annoate several numbers in a cell of the grid but always double.click on the cell before inputting a new number.
+
 
 
 
@@ -53,8 +59,12 @@ Push to the branch: git push origin feature/your_feature_name.
 Submit a pull request.
 
 
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
 
 ## Acknowledgments
 Special thanks to EPFL CS214 course for providing useful and important information on how to implement a webapp.
