@@ -22,20 +22,20 @@ Ending: The game automatically detects when the game is finished because all cel
 
 #### Installation
   Clone the repository:
-    * bash *
-    * git clone https://github.com/yourusername/sudoku-game.git * 
+    *bash*
+    *git clone https://github.com/yourusername/sudoku-game.git* 
 
 
 #### Navigate to the project directory:
-  cd sudoku-game
+  *cd sudoku-game*
 
 
 #### Compile the Scala.js project and generate JavaScript:
-  sbt
-  run
+  *sbt
+  run*
 
 
-Type localhost:8080 in a web browser to start playing.
+Type *localhost:8080* in a web browser to start playing.
 
 
 
