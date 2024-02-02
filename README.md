@@ -57,4 +57,4 @@ Submit a pull request.
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-EPFL CS214 course for providing useful and important information on how to implement a webapp.
+Special thanks to EPFL CS214 course for providing useful and important information on how to implement a webapp.
