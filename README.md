@@ -2,7 +2,7 @@
 
 A classic Sudoku game built with Scala.js, allowing users to solve Sudoku puzzles in a web browser. 
 
-## Features
+## Features
 
 Interactive Sudoku Board: A 9x9 Sudoku board where users can input numbers to solve the puzzle.
 Number Highlighting: Clickable buttons to highlight placed numbers on the board, helping puzzle solving.
@@ -12,7 +12,7 @@ Ending: The game automatically detects when the game is finished because all cel
 
 
 
-## Getting Started
+## Getting Started
 
 #### Prerequisites:
 - Scala and SBT installed on your machine
@@ -23,17 +23,17 @@ Clone the repository:
 bash
 git clone https://github.com/yourusername/sudoku-game.git
 
-#### Navigate to the project directory:
+#### Navigate to the project directory:
 cd sudoku-game
 
-#### Compile the Scala.js project and generate JavaScript:
+#### Compile the Scala.js project and generate JavaScript:
 sbt fastLinkJS
 
 Type localhost:8080 in a web browser to start playing.
 
 
 
-## Usage
+## Usage
 
 1. Select a difficulty level to start a new game, 1 being the easiest and 3 the hardest.
 2. Fill in the grid according to the sudoku rule by double-clicking on a cell to select it, then inputting a number from the keyboard
@@ -42,7 +42,7 @@ Type localhost:8080 in a web browser to start playing.
 
 
 
-## Contributing
+## Contributing
 
 Contributions to the Sudoku game project are welcome! Please follow these steps to contribute:
 
@@ -53,7 +53,7 @@ Push to the branch: git push origin feature/your_feature_name.
 Submit a pull request.
 
 
-## License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
